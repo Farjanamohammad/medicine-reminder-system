@@ -34,3 +34,6 @@ The system operates using a combination of **menu-driven interface, RTC (Real-Ti
 - System becomes **real-time responsive**
 - Avoids continuous checking (polling)
 - Improves performance and efficiency
+
+🎥 Project Demo Video
+./medicine_reminder.mp4
