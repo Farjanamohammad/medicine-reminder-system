@@ -36,5 +36,4 @@ The system operates using a combination of **menu-driven interface, RTC (Real-Ti
 - Improves performance and efficiency
   
 ## 🎥 Project Demo Video
-
 [Download Demo Video](./medicine_reminder.mp4)
